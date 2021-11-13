@@ -1,0 +1,20 @@
+[
+    {
+        "index": 0,
+        "heading": "MEC Front View",
+        "sub": "Fornt view of MOdel Engineering College",
+        "image": "hero/mec.jpg"
+    },
+    {
+        "index": 1,
+        "heading": "M.A.G.I.C",
+        "sub": "The first edition of MEC Annual Gathering of IEEE Community",
+        "image": "hero/magic.jpg"
+    },
+    {
+        "index": 2,
+        "heading": "MEC aerial view",
+        "sub": "Aerial view of MEC showing it's layout structure that have a resemblance of that of aryabhatta satellite",
+        "image": "hero/mec-aerial.jpg"
+    }
+]
