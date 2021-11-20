@@ -1,0 +1,34 @@
+{
+    "2021":{
+        "Student Branch": {
+            "Chairperson": "Christina Ann Zachariah",
+            "Vice Chairperson": "Anuvinda Krishnan",
+            "Secretary": "Anand Raj"
+
+        },
+        "Computer Society": {
+            "Chairperson": "Malavika S Menon",
+            "Secretary": "Bharath Srinivasan"
+
+        },
+        "Signal Processing Society": {
+            "Chairperson":"Shyama",
+            "Secretary":"Mukund C Menon"
+
+        },
+        "Industrial Applications Society ": {
+            "Chairperson":"Aparna",
+            "Secretary":"Serena"
+
+        },
+        "Women in Engineering Affinty Group": {
+            "Chairperson":"Poornima",
+            "Secretary":"Anjali Suresh"
+
+        },
+        "Power and Energy Society": {
+            "Chairperson":"Aparna",
+            "Secretary":"Gouri Lakshmi"
+        }
+    }
+}
