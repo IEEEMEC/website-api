@@ -3,8 +3,14 @@
         "Student Branch": {
             "Chairperson":{ "Name": "Christina Ann Zachariah", "image": "execom/2020/chair.jpg"},
             "Vice Chairperson": { "Name": "Anuvinda Krishnan", "image": "execom//2020/viceChair.jpg"},
-            "Secretary": { "Name": "Anand Raj", "image": "execom/2020/secretary.jpg"}
-
+            "Secretary": { "Name": "Anand Raj", "image": "execom/2020/secretary.jpg"},
+            "Treasurer": { "Name": "Gokul S", "image": "execom/2020/treasurer.jpg"},
+            "Link Representative": { "Name": "Amith Tony Joseph", "image": "execom/2020/linkRepresentative.jpg"},
+            "Membership Development Coordinator": { "Name": "Vinu George", "image": "execom/2020/MDC.jpg"},
+            "Activity Coordinator": { "Name": "Sreehari N", "image": "execom/2020/AC.jpg"},
+            "Design Head": { "Name": "Adil Rafeek", "image": "execom/2020/designHead.jpg"},
+            "Content Head": { "Name": "Samyuktha K", "image": "execom/2020/ContentHead.jpg"},
+            "Technical Coordinator": { "Name": "Amaya Sam", "image": "execom/2020/technicalCoordinator.jpg"}
         },
         "Computer Society": {
             "Chairperson": { "Name": "Malavika S Menon", "image": "execom/2020/CSChair.jpg"},
