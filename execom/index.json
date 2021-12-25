@@ -36,5 +36,52 @@
             "Chairperson":{ "Name": "Aparna", "image": "execom/2020/PESChair.jpg"},
             "Secretary":{ "Name": "Gouri Lakshmi", "image": "execom/2020/PESSecretary.jpg"}
         }
+    },
+    "2021":{
+        "Student Branch": {
+            "Chairperson":{ "Name": "Abhijit P", "image": "execom/2021/SB_chair_Abhijit P.jpg"},
+            "Vice Chairperson": { "Name": "Amith Tony Joseph", "image": "execom/2021/ViceChairperson_Amith Tony Joseph.jpg"},
+            "Secretary": { "Name": "Shivi Gupta", "image": "execom/2021/Secretary_Shivi Gupta.jpg"},
+            "Treasurer": { "Name": "Anuvinda Krishnan V K", "image": "execom/2021/Treasurer_Anuvinda Krishnan V K.jpg"},
+            "Link Representative": { "Name": "Amay Ganesh", "image": "execom/2021/LINK Representative_Amay Ganesh.jpg"},
+            "Membership Development Coordinator": { "Name": "Durga K B", "image": "execom/2021/MEMBERSHIP DEVELOPMENT COORDINATOR_DURGA K B.jpg"},
+            "Design Head": { "Name": "Riya Lalu", "image": "execom/2021/Design head-Riya Lalu.jpg"},
+            "Content Manager-Broadcast": { "Name": "Vishnumaya S Unni", "image": "execom/2021/Content Manager-Broadcast_ Vishnumaya S Unni.jpg"},
+            "Content Manager-Proposal": { "Name": "Gouri Krishna", "image": "execom/2021/Content Manager - Proposals_Gouri Krishna.jpg"},
+            "Technical Coordinator": { "Name": "Sreehari N", "image": "execom/2021/Technical Coordinator_Sreehari N.jpg"},
+            "Electronics and communication coordinator": { "Name": "Madhav", "image": "execom/2021/ECC_Madhav.jpg"}
+        },
+        "Computer Society": {
+            "Chairperson": { "Name": "Bharat Srinivasan", "image": "execom/2021/CS Chair_ Bharath Srinivasan.jpg"},
+            "Secretary": { "Name": "Mohammed Salman Ali Pary", "image": "execom/2021/CS Secretary_Mohammed Salman Ali Pary.jpg"},
+            "Activity Coordinator": { "Name": "Abhiram Ambadi S", "image": "execom/2021/CSActivityCoordi_AbhiramAmbadiS.jpg"}
+
+        },
+        "Signal Processing Society": {
+            "Chairperson":{ "Name": "Mukund C Menon", "image": "execom/2021/SPS Chair_Mukund C Menon.jpg"},
+            "Secretary":{ "Name": "Franco Joe M", "image": "execom/2021/SPSSecretary_FrancoJoeM.jpg"},
+            "Activity Coordinator": { "Name": "K V Akash", "image": "execom/2021/SPSActivityCoordinator_K V Akash.jpg"}
+
+        },
+        "Industrial Applications Society ": {
+            "Chairperson":{ "Name": "Finny Philip Biju", "image": "execom/2021/IAS chair_Finny Philip Biju.jpg"},
+            "Secretary":{ "Name": "Sanjali Sajith", "image": "execom/2021/IAS Secretary_Sanjali Sajith.jpg"},
+            "Activity Coordinator": { "Name": "Allen Alex Abraham", "image": "execom/2021/IAS_Activity Cordinator-Allen Alex Abraham.jpg"}
+
+        },
+        "Women in Engineering Affinty Group": {
+            "Chairperson":{ "Name": "Anjali Suresh", "image": "execom/2021/Wie Chairperson_Anjali Suresh.jpg"},
+            "Secretary":{ "Name": "Rosia Johny", "image": "execom/2021/WIESecretary_RosiaJohny.jpg"},
+            "Activity Coordinator": { "Name": "Kasinath V", "image": "execom/2021/WIESecretary_RosiaJohny.jpg"}
+
+        },
+        "Power and Energy Society": {
+            "Chairperson":{ "Name": "Akshayraj K R", "image": "execom/2021/PES Chairperson_AKSHAYRAJ K R.jpg"},
+            "Secretary":{ "Name": "Shashank Nambiar", "image": "execom/2021/PES Secretary_Shashank Nambiar.jpg"},
+            "Activity Coordinator": { "Name": "Aedna Kurian", "image": "execom/2021/PES_ActivityCoordinator_AednaKurian.jpg"}
+        },
+        "Special Interest Group on Humanitarian Technology":{
+            "Chairpaerson":{"Name": "Sreehari N", "image": "execom/2021/Technical Coordinator_Sreehari N.jpg"}
+        }
     }
 }
