@@ -1,42 +1,4 @@
 {
-    "2020":{
-        "Student Branch": {
-            "Chairperson":{ "Name": "Christina Ann Zachariah", "image": "execom/2020/chair.jpg"},
-            "Vice Chairperson": { "Name": "Anuvinda Krishnan", "image": "execom//2020/viceChair.jpg"},
-            "Secretary": { "Name": "Anand Raj", "image": "execom/2020/secretary.jpg"},
-            "Treasurer": { "Name": "Gokul S", "image": "execom/2020/treasurer.jpg"},
-            "Link Representative": { "Name": "Amith Tony Joseph", "image": "execom/2020/LinkRep.jpg"},
-            "Membership Development Coordinator": { "Name": "Vinu George", "image": "execom/2020/MDC.jpg"},
-            "Activity Coordinator": { "Name": "Sreehari N", "image": "execom/2020/AC.jpg"},
-            "Design Head": { "Name": "Adil Rafeek", "image": "execom/2020/designHead.jpg"},
-            "Content Head": { "Name": "Samyuktha K", "image": "execom/2020/ContentHead.jpg"},
-            "Technical Coordinator": { "Name": "Amaya Sam", "image": "execom/2020/technicalCoordinator.jpg"}
-        },
-        "Computer Society": {
-            "Chairperson": { "Name": "Malavika S Menon", "image": "execom/2020/CSChair.jpg"},
-            "Secretary": { "Name": "Bharath Srinivasan", "image": "execom/2020/CSSecretary.jpg"}
-
-        },
-        "Signal Processing Society": {
-            "Chairperson":{ "Name": "Shyama", "image": "execom/2020/SPSChair.jpg"},
-            "Secretary":{ "Name": "Mukund C Menon", "image": "execom/2020/SPSSecretary.jpg"}
-
-        },
-        "Industrial Applications Society ": {
-            "Chairperson":{ "Name": "Aparna", "image": "execom/2020/PESChair.jpg"},
-            "Secretary":{ "Name": "Serene", "image": "execom/2020/IASSecretary.jpg"}
-
-        },
-        "Women in Engineering Affinty Group": {
-            "Chairperson":{ "Name": "Poornima Mani", "image": "execom/2020/WiEChair.jpg"},
-            "Secretary":{ "Name": "Anjali Suresh", "image": "execom/2020/WiESecretary.jpg"}
-
-        },
-        "Power and Energy Society": {
-            "Chairperson":{ "Name": "Aparna", "image": "execom/2020/PESChair.jpg"},
-            "Secretary":{ "Name": "Gouri Lakshmi", "image": "execom/2020/PESSecretary.jpg"}
-        }
-    },
     "2021":{
         "Student Branch": {
             "Chairperson":{ "Name": "Abhijit P", "image": "execom/2021/SB_chair_Abhijit P.jpg"},
@@ -82,6 +44,44 @@
         },
         "Special Interest Group on Humanitarian Technology":{
             "Chairpaerson":{"Name": "Sreehari N", "image": "execom/2021/Technical Coordinator_Sreehari N.jpg"}
+        }
+    },
+    "2020":{
+        "Student Branch": {
+            "Chairperson":{ "Name": "Christina Ann Zachariah", "image": "execom/2020/chair.jpg"},
+            "Vice Chairperson": { "Name": "Anuvinda Krishnan", "image": "execom//2020/viceChair.jpg"},
+            "Secretary": { "Name": "Anand Raj", "image": "execom/2020/secretary.jpg"},
+            "Treasurer": { "Name": "Gokul S", "image": "execom/2020/treasurer.jpg"},
+            "Link Representative": { "Name": "Amith Tony Joseph", "image": "execom/2020/LinkRep.jpg"},
+            "Membership Development Coordinator": { "Name": "Vinu George", "image": "execom/2020/MDC.jpg"},
+            "Activity Coordinator": { "Name": "Sreehari N", "image": "execom/2020/AC.jpg"},
+            "Design Head": { "Name": "Adil Rafeek", "image": "execom/2020/designHead.jpg"},
+            "Content Head": { "Name": "Samyuktha K", "image": "execom/2020/ContentHead.jpg"},
+            "Technical Coordinator": { "Name": "Amaya Sam", "image": "execom/2020/technicalCoordinator.jpg"}
+        },
+        "Computer Society": {
+            "Chairperson": { "Name": "Malavika S Menon", "image": "execom/2020/CSChair.jpg"},
+            "Secretary": { "Name": "Bharath Srinivasan", "image": "execom/2020/CSSecretary.jpg"}
+
+        },
+        "Signal Processing Society": {
+            "Chairperson":{ "Name": "Shyama", "image": "execom/2020/SPSChair.jpg"},
+            "Secretary":{ "Name": "Mukund C Menon", "image": "execom/2020/SPSSecretary.jpg"}
+
+        },
+        "Industrial Applications Society ": {
+            "Chairperson":{ "Name": "Aparna", "image": "execom/2020/PESChair.jpg"},
+            "Secretary":{ "Name": "Serene", "image": "execom/2020/IASSecretary.jpg"}
+
+        },
+        "Women in Engineering Affinty Group": {
+            "Chairperson":{ "Name": "Poornima Mani", "image": "execom/2020/WiEChair.jpg"},
+            "Secretary":{ "Name": "Anjali Suresh", "image": "execom/2020/WiESecretary.jpg"}
+
+        },
+        "Power and Energy Society": {
+            "Chairperson":{ "Name": "Aparna", "image": "execom/2020/PESChair.jpg"},
+            "Secretary":{ "Name": "Gouri Lakshmi", "image": "execom/2020/PESSecretary.jpg"}
         }
     }
 }
