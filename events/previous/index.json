@@ -5,7 +5,7 @@
         "title":"Introduction to Fusion360",
         "date":"May 2, 2021",
         "location":"Govt. Model Engineering College",
-        "img_src":"events/previous/Fusion_360.jpeg",  
+        "img_src":"events/previous/Fusion360.jpeg",  
         "description":"Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for product design and manufacturing. IEEE MEC SB IAS Chapter in association with FoxLabs conducted the introductory session to the Autodesk Fusion 360 software platform.",
         "reg": false,
         "link":" "
@@ -148,7 +148,7 @@
         "title":"Programming in C",
         "date":"29-30 May, 2021",
         "location":"Govt. Model Engineering College",
-        "img_src":"events/previous/Programming_In_C.jpeg", 
+        "img_src":"events/previous/ProgrammingInC.jpeg", 
         "description":"A bootcamp exclusively of MECians for learning C Programming",
         "reg": false,
         "link":" "
@@ -159,7 +159,7 @@
         "title":"Introduction to GIT",
         "date":"29-30 May, 2021",
         "location":"Govt. Model Engineering College",
-        "img_src":"events/previous/Introduction_To_Git.jpeg", 
+        "img_src":"events/previous/IntroductionToGit.jpeg", 
         "description":"Computer Society of IEEE MEC with DevQuest brings to you, a beginner-friendly workshop on Github.",
         "reg": false,
         "link":" "
