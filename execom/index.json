@@ -1,13 +1,13 @@
 {
     "2021":{
         "Student Branch": {
-            "Chairperson":{ "Name": "Abhijit P", "image": "execom/2021/SB_chair_AbhijitP.jpg"},
-            "Vice Chairperson": { "Name": "Amith Tony Joseph", "image": "execom/2021/ViceChairperson_AmithTonyJoseph.jpg"},
+            "Chairperson":{ "Name": "Abhijit P", "image": "execom/2021/SB_chair_AbhijithP.jpg"},
+            "Vice Chairperson": { "Name": "Amith Tony Joseph", "image": "execom/2021/viceChair.jpg"},
             "Secretary": { "Name": "Shivi Gupta", "image": "execom/2021/Secretary_ShiviGupta.jpg"},
             "Treasurer": { "Name": "Anuvinda Krishnan V K", "image": "execom/2021/Treasurer_AnuvindaKrishnanVK.jpg"},
             "Link Representative": { "Name": "Amay Ganesh", "image": "execom/2021/LINK_Representative_AmayGanesh.jpg"},
             "Membership Development Coordinator": { "Name": "Durga K B", "image": "execom/2021/MEMBERSHIPDEVELOPMENTCOORDINATOR_DURGAKB.jpg"},
-            "Design Head": { "Name": "Riya Lalu", "image": "execom/2021/Designhead-RiyaLalu.jpg"},
+            "Design Head": { "Name": "Riya Lalu", "image": "execom/2021/Designhead-RiyaLalu.JPG"},
             "Content Manager-Broadcast": { "Name": "Vishnumaya S Unni", "image": "execom/2021/ContentManager-Broadcast_VishnumayaSUnni.jpg"},
             "Content Manager-Proposal": { "Name": "Gouri Krishna", "image": "execom/2021/ContentManager-Proposals_GouriKrishna.jpg"},
             "Technical Coordinator": { "Name": "Sreehari N", "image": "execom/2021/TechnicalCoordinator_SreehariN.jpg"},
@@ -15,7 +15,7 @@
         },
         "Computer Society": {
             "Chairperson": { "Name": "Bharat Srinivasan", "image": "execom/2021/CSChair_ BharathSrinivasan.jpg"},
-            "Secretary": { "Name": "Mohammed Salman Ali Pary", "image": "execom/2021/CSSecretary_MohammedSalmanAliPary.jpg"},
+            "Secretary": { "Name": "Mohammed Salman Ali Pary", "image": "execom/2021/CSSecretary_MohammedSalman AliPary.jpg"},
             "Activity Coordinator": { "Name": "Abhiram Ambadi S", "image": "execom/2021/CSActivityCoordi_AbhiramAmbadiS.jpg"}
 
         },
