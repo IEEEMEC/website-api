@@ -22,7 +22,7 @@
         },
         "Signal Processing Society": {
             "Chairperson":{ "Name": "Shivaranjini T P", "image": "execom/2022/SPS/Shivaranjini T P_SPS Chairperson.jpg"},
-            "Secretary":{ "Name": "Shreya C H_ SPS Secretary", "image": "execom/2022/SPS/Shreya C H_ SPS Secretary_.jpg"},
+            "Secretary":{ "Name": "Shreya C H", "image": "execom/2022/SPS/Shreya C H_ SPS Secretary_.jpg"},
             "Activity Coordinator": { "Name": "Aravindan Maliyeckal", "image": "execom/2022/SPS/Aravindan Maliyeckal_SPS Activity Coordinator.jpg"}
 
         },
@@ -42,7 +42,7 @@
             "Chairperson":{ "Name": "Philip Thomas", "image": "execom/2022/PES/Philip Thomas_PES Chairperson .jpg"},
             "Secretary":{ "Name": "K V Akash", "image": "execom/2022/PES/K V Akash_PES_Secretary.jpg"}
         },
-        "Special Interest Group on Humanitarian Technology":{
+        "SIGHT":{
             "Chairperson":{"Name": "Amay Ganesh", "image": "execom/2022/SIGHT/Amay Ganesh_SIGHT Chairperson.jpeg"}
         }
         
@@ -90,7 +90,7 @@
             "Secretary":{ "Name": "Shashank Nambiar", "image": "execom/2021/PES_Secretary_ShashankNambiar.jpg"},
             "Activity Coordinator": { "Name": "Aedna Kurian", "image": "execom/2021/PES_ActivityCoordinator_AednaKurian.jpeg"}
         },
-        "Special Interest Group on Humanitarian Technology":{
+        "SIGHT":{
             "Chairperson":{"Name": "Sreehari N", "image": "execom/2021/TechnicalCoordinator_SreehariN.jpg"}
         }
     },
