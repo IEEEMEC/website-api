@@ -159,7 +159,9 @@
         "Name": "Amay Ganesh",
         "image": "execom/2022/SIGHT/Amay Ganesh_SIGHT Chairperson.jpeg"
       }
+
     }
+
   },
   "2021": {
     "Student Branch": {
@@ -308,7 +310,27 @@
         "Name": "Sreehari N",
         "image": "execom/2021/TechnicalCoordinator_SreehariN.jpg"
       }
+    },
+    "EMBS": {
+      "Staff Advisor": {
+        "Name": "Minimol B",
+        "image": "execom/2021/Minimol B.jpg"
+      },
+      "Chairperson": {
+        "Name": "Reena",
+        "image": "execom/2021/REENA_Chairperson.jpg"
+      },
+      "Secretary": {
+        "Name": "Swathi",
+        "image": "execom/2021/SWATHI_Secretary.jpg"
+      },
+      "Activity Coordinator": {
+        "Name": "Hafis Mohammed",
+        "image": "execom/2021/Hafis Mohamed_activity coordinator .jpg"
+      }
     }
+    
+
   },
   "2020": {
     "Student Branch": {
