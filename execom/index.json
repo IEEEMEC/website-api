@@ -42,6 +42,11 @@
             "Chairperson":{ "Name": "Philip Thomas", "image": "execom/2022/PES/Philip Thomas_PES Chairperson .jpg"},
             "Secretary":{ "Name": "K V Akash", "image": "execom/2022/PES/K V Akash_PES_Secretary.jpg"}
         },
+        "EMBS":{
+            "Chairperson":{"Name":"Sara Suzaan Suresh","image":"execom/2022/EMBS/Sara  Suzaan Suresh.jpg"},
+            "Secretary":{"Name":"Hafis Mohamed","image":"execom/2022/EMBS/Hafis Mohamed.jpg"}
+
+        },
         "SIGHT":{
             "Chairperson":{"Name": "Amay Ganesh", "image": "execom/2022/SIGHT/Amay Ganesh_SIGHT Chairperson.jpeg"}
         }
