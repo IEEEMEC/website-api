@@ -1,3 +1,14 @@
 [
-    
+    {
+        "index":0,
+        "type":"IEEE MEC SB",
+        "title":"Carnival",
+        "title_color":"white",
+        "date":"February 13, 2022",
+        "location":"Govt. Model Engineering College",
+        "img_src":"events/upcoming/carnival.jpeg",  
+        "description":"Here, you will learn what the real #ieee experience is while having an amazing time with your peers! ",
+        "reg": true,
+        "link":"https://urls.ieeemec.org/carnival"
+    }
 ]
