@@ -190,6 +190,18 @@
         "description":"IEEE MEC SB in collaboration with IEEE CET SB brings you a peer-to-peer learning circle to tone your programming skills.",
         "reg": false,
         "link":" "
+    },
+    {
+        "index":17,
+        "type":"IEEE MEC SB",
+        "title":"Carnival",
+        "title_color":"white",
+        "date":"February 13, 2022",
+        "location":"Govt. Model Engineering College",
+        "img_src":"events/previous/carnival.jpeg",  
+        "description":"Here, you will learn what the real #ieee experience is while having an amazing time with your peers! ",
+        "reg": false,
+        "link":""
     }
     
 ]
