@@ -1,3 +1,14 @@
 [
-    
+    {
+        "index":1,
+        "type":"CS Society",
+        "title":"ML.init()",
+        "title_color":"white",
+        "date":"April 27, 2022",
+        "location":"Govt. Model Engineering College",
+        "img_src":"events/upcoming/MLinit.jpeg",  
+        "description":"ML.init() - an online ML workshop series brought to you by IEEE MEC SB Computer Society in collaboration with Neuton.",
+        "reg": true,
+        "link":"urls.ieeemec.org/ml-init"
+    }
 ]
