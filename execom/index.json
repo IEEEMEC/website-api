@@ -1,4 +1,167 @@
-{
+{"2023": {
+    "Student Branch": {
+      "Branch Counselor": {
+        "Name": "Sreekumar K",
+        "image": "execom/2022/General EXECOM/Sreekumar.jpg"
+      },
+      "Chairperson": {
+        "Name": "Gouri Krishna",
+        "image": "execom/2022/General EXECOM/Gouri Krishna_Chairperson.jpg"
+      },
+      "Vice Chairperson": {
+        "Name": "Kasinath V",
+        "image": "execom/2022/General EXECOM/Kasinath V_Vice Chair.jpg"
+      },
+      "Secretary": {
+        "Name": "Maria Jojy Kokkad",
+        "image": "execom/2022/General EXECOM/Aedna Kurian_Secretary.jpg"
+      },
+      "Joint Secretary": {
+        "Name": "Surya Kiran",
+        "image": "execom/2022/General EXECOM/Surya Kiran_Joint Secretary.jpg"
+      },
+      "Treasurer": {
+        "Name": "Franco Joe M",
+        "image": "execom/2022/General EXECOM/Franco Joe M_Treasurer.jpg"
+      },
+      "Link Representative": {
+        "Name": "Abhiram Ambadi S",
+        "image": "execom/2022/General EXECOM/Abhiram Ambadi S._LINK Representative.jpg"
+      },
+      "Web Master": {
+        "Name": "Salman Pary",
+        "image": "execom/2022/General EXECOM/Salman pary_webmaster.jpg"
+      },
+      "Membership Development Coordinator": {
+        "Name": "Amil Mohammed",
+        "image": "execom/2022/General EXECOM/Amil Mohammed P S _MDC.PNG"
+      },
+      "Design Head": {
+        "Name": "Sreepriya S",
+        "image": "execom/2022/General EXECOM/Sreepriya S_Design head.jpg"
+      },
+      "Design head": {
+        "Name": "Lakshmipriya R",
+        "image": "execom/2022/General EXECOM/Lakshmipriya R_Design Head.png"
+      },
+      "Content Manager-Broadcast": {
+        "Name": "Anjali Sajeevan",
+        "image": "execom/2022/General EXECOM/Anjali Sajeevan-Content Manager (Broadcast).jpg"
+      },
+      "Content Manager-Documentation": {
+        "Name": "Zailesh A R",
+        "image": "execom/2022/General EXECOM/Zailesh A R_Content Manager (Documentation).jpeg"
+      },
+      "Technical Coordinator": {
+        "Name": "Allen Alex",
+        "image": "execom/2022/General EXECOM/Allen Alex_Technical Cordinator.jpg"
+      },
+      "Electronics and communication coordinator": {
+        "Name": "Vishnu K M",
+        "image": "execom/2022/General EXECOM/VISHNU K M_ECC.jpg"
+      }
+    },
+    "Computer Society": {
+      "Staff Advisor": {
+        "Name": "Vineetha KV",
+        "image": "execom/2022/CS/Vineetha K V.jpeg"
+      },
+      "Chairperson": {
+        "Name": "Nikhil George Mathew",
+        "image": "execom/2022/CS/Nikhil George Mathew_CS5A_CS Chairperson.jpg"
+      },
+      "Secretary": {
+        "Name": "Alan Biju",
+        "image": "execom/2022/CS/Vishnu R Potti.jpg"
+      },
+      "Activity Coordinator": {
+        "Name": "Roshin Jimmy",
+        "image": "execom/2022/CS/Sreehari K N.jpg"
+      }
+    },
+    "Signal Processing Society": {
+      "Chairperson": {
+        "Name": "Nanditha Prakash",
+        "image": "execom/2022/SPS/Shivaranjini T P_SPS Chairperson.jpg"
+      },
+      "Secretary": {
+        "Name": "Shreya C H",
+        "image": "execom/2022/SPS/Shreya C H_ SPS Secretary_.jpg"
+      },
+      "Activity Coordinator": {
+        "Name": "Parthiv Krishnan",
+        "image": "execom/2022/SPS/Aravindan Maliyeckal_SPS Activity Coordinator.jpg"
+      }
+    },
+    "Industrial Applications Society ": {
+      "Chairperson": {
+        "Name": "Sreepriya S",
+        "image": "execom/2022/IAS/Akshaya Sanal_IAS Chairperson.png"
+      },
+      "Secretary": {
+        "Name": "Vishnu K M",
+        "image": "execom/2022/IAS/Arun jyothish - IAS Secretary.jpg"
+      },
+      "Activity Coordinator": {
+        "Name": "Athul Narayanan",
+        "image": "execom/2022/IAS/Asher_activity coordinator.jpg"
+      }
+    },
+    "Women in Engineering Affinty Group": {
+      "Staff Advisor": {
+        "Name": "Vineetha KV",
+        "image": "execom/2022/CS/Vineetha K V.jpeg"
+      },
+      "Chairperson": {
+        "Name": "Lakshmipriya R",
+        "image": "execom/2022/WIE/Merlin Sarah Mathew_WIE Chairperson.jpg"
+      },
+      "Secretary": {
+        "Name": "Devika Padmakumar Menon",
+        "image": "execom/2022/WIE/Sruthy H_WIE Secretary_.jpg"
+      },
+      "Activity Coordinator": {
+        "Name": "Sheethal KS",
+        "image": "execom/2022/WIE/Anjali Rajesh_WIE Activity Coordinator.jpg"
+      }
+    },
+    "Power and Energy Society": {
+      "Staff Advisor": {
+        "Name": "DR. Bindu V",
+        "image": "execom/2022/PES/Dr. Bindu V.jpeg"
+      },
+      "Chairperson": {
+        "Name": "Sachin Sreekanth",
+        "image": "execom/2022/PES/Philip Thomas_PES Chairperson .jpg"
+      },
+      "Secretary": {
+        "Name": "Mohammed Yasin",
+        "image": "execom/2022/PES/K V Akash_PES_Secretary.jpg"
+      }
+    },
+    "EMBS": {
+      "Staff Advisor": {
+        "Name": "Minimol B",
+        "image": "execom/2022/EMBS/Minimol B.jpg"
+      },
+      "Chairperson": {
+        "Name": "Malavika R Nambiar",
+        "image": "execom/2022/EMBS/Sara  Suzaan Suresh.jpg"
+      },
+      "Secretary": {
+        "Name": "Parvathi Vinod",
+        "image": "execom/2022/EMBS/Hafis Mohamed.jpg"
+      }
+    },
+    "SIGHT": {
+      "Chairperson": {
+        "Name": "Amay Ganesh",
+        "image": "execom/2022/SIGHT/Amay Ganesh_SIGHT Chairperson.jpeg"
+      }
+
+    }
+
+  },
   "2022": {
     "Student Branch": {
       "Branch Counselor": {
