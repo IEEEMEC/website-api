@@ -5,20 +5,20 @@
       "image": "execom/2022/General EXECOM/Sreekumar.jpg"
     },
     "Chairperson": {
-      "Name": "Gouri Krishna",
-      "image": "execom/2023/General EXECOM/Gouri Krishna_Chairperson.jpg"
-    },
-    "Vice Chairperson": {
       "Name": "Kasinath V",
       "image": "execom/2023/General execom/Kasinath V_Chairperson.jpg"
+    },
+    "Vice Chairperson": {
+      "Name": "Anjali Rajesh",
+      "image": "execom/2023/General execom/Anjali Rajesh.jpg"
     },
     "Secretary": {
       "Name": "Maria Jojy Kokkad",
       "image": "execom/2023/General execom/Maria Jojy Kokkad_Secretary.jpg"
     },
     "Joint Secretary": {
-      "Name": "Surya Kiran",
-      "image": "execom/2022/General EXECOM/Surya Kiran_Joint Secretary.jpg"
+      "Name": "Thomas Micheal",
+      "image": "execom/2023/General execom/Thomas Micheal.jpg"
     },
     "Treasurer": {
       "Name": "Amil Mohammed P S",
@@ -29,41 +29,37 @@
       "image": "execom/2023/General execom/Rohit Jose_ Link Representative_.jpg"
     },
     "Web Master": {
-      "Name": "Salman Pary",
-      "image": "execom/2022/General EXECOM/Salman pary_webmaster.jpg"
+      "Name": "Riya Sunil",
+      "image": "execom/2022/General execom/riyasunil.jpg"
     },
     "Membership Development Coordinator": {
-      "Name": "Amil Mohammed",
-      "image": "execom/2023/General EXECOM/Amil Mohammed P S _MDC.PNG"
+      "Name": "Neha Mariam Mathew",
+      "image": "execom/2023/General execom/Neha Mariam Mathew.jpeg"
     },
     "Design Head": {
       "Name": "Nandasree Viju",
       "image": "execom/2023/General execom/Nandasree Viju _Design Head.png"
     },
-    "Design head": {
-      "Name": "Lakshmipriya R",
-      "image": "execom/2023/General EXECOM/Lakshmipriya R_Design Head.png"
-    },
     "Content Manager-Broadcast": {
-      "Name": "Anjali Sajeevan",
-      "image": "execom/2023/General EXECOM/Anjali Sajeevan-Content Manager (Broadcast).jpg"
+      "Name": "Shreya C H",
+      "image": "execom/2023/General execom/Shreya C H.jpg"
     },
     "Content Manager-Documentation": {
-      "Name": "Zailesh A R",
-      "image": "execom/2023/General EXECOM/Zailesh A R_Content Manager (Documentation).jpeg"
+      "Name": "Sonah S Tiju",
+      "image": "execom/2023/General execom/Sonah S Tiju.jpg"
     },
     "Technical Coordinator": {
-      "Name": "Allen Alex",
-      "image": "execom/2023/General EXECOM/Allen Alex_Technical Cordinator.jpg"
+      "Name": "Asher Thomas Jose",
+      "image": "execom/2023/General execom/AsherThomasJose.jpg"
     },
     "Electronics and communication coordinator": {
-      "Name": "Vishnu K M",
-      "image": "execom/2023/General EXECOM/VISHNU K M_ECC.jpg"
+      "Name": "Sara Varghese",
+      "image": "execom/2023/General execom/Sara Varghese.jpg"
     }
   },
   "Computer Society": {
     "Staff Advisor": {
-      "Name": "Vineetha KV",
+      "Name": "Kiran Mary",
       "image": "execom/2023/CS/Vineetha K V.jpeg"
     },
     "Chairperson": {
@@ -109,7 +105,7 @@
   },
   "Women in Engineering Affinty Group": {
     "Staff Advisor": {
-      "Name": "Vineetha KV",
+      "Name": "Shaija P J",
       "image": "execom/2023/CS/Vineetha K V.jpeg"
     },
     "Chairperson": {
@@ -137,6 +133,10 @@
     "Secretary": {
       "Name": "Mohammed Yasin",
       "image": "execom/2023/PES/Mohammed yasin_pes secretary.jpg"
+    },
+    "Activity Coordinator": {
+      "Name": "Gouri B S",
+      "image": "execom/2023/WIE/Sheethal KS.png"
     }
   },
   "EMBS": {
@@ -151,14 +151,11 @@
     "Secretary": {
       "Name": "Parvathi Vinod",
       "image": "execom/2023/EMBS/Parvathi Vinod_EMBS Secretary.jpg"
+    },
+    "Activity Coordinator": {
+      "Name": "Fathima Roshni",
+      "image": "execom/2023/EMBS/Fathima Roshni.jpg"
     }
-  },
-  "SIGHT": {
-    "Chairperson": {
-      "Name": "Amay Ganesh",
-      "image": "execom/2023/SIGHT/Amay Ganesh_SIGHT Chairperson.jpeg"
-    }
-
   }
 
 },
