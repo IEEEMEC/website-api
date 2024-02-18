@@ -7,86 +7,87 @@
     },
     "Chairperson": {
       "Name": "Asher Thomas Jose",
-      "image": "website-api/images/execom/2024/General execom/AsherThomasJose_Chair.jpg"
+      "image": "execom/2024/General execom/AsherThomasJose_Chair.jpg"
     },
     "Vice Chairperson": {
       "Name": "Athul Narayanan",
-      "image": "website-api/images/execom/2024/General execom/ATHUL NARAYANAN_VICE CHAIR-min.jpg"
+      "image": "execom/2024/General execom/ATHUL NARAYANAN_VICE CHAIR-min.jpg"
     },
     "Secretary": {
       "Name": "Anjali Rajesh",
-      "image": "website-api/images/execom/2024/General execom/ANJALI RAJESH_SECRETARY-min.jpeg"
+      "image": "execom/2024/General execom/ANJALI RAJESH_SECRETARY-min.jpeg"
     },
     "Joint Secretary": {
       "Name": "Fathima Roshni",
-      "image": "website-api/images/execom/2024/General execom/Fathima Roshni_Joint Secretary_-min.jpg"
+      "image": "execom/2024/General execom/Fathima Roshni_Joint Secretary_-min.jpg"
     },
     "Operations Manager":{
       "Name":"Rohit Jose",
-      "image":"website-api/images/execom/2024/General execom/Rohit Jose _ Operations Manager_-min-compressed.jpg"
+      "image":"execom/2024/General execom/Rohit Jose _ Operations Manager_-min-compressed.jpg"
     },
     "Treasurer": {
       "Name": "Ajai Paul Kenny",
-      "image": "website-api/images/execom/2024/General execom/Ajai Paul Kenny_treasurer-min.jpg"
+      "image": "execom/2024/General execom/Ajai Paul Kenny_treasurer-min.jpg"
     },
     "Link Representative": {
-      "Name": "website-api/images/execom/2024/General execom/Hanna Ansar_LINK REP-min.jpg"
+      "Name":"Hanna Ansar",
+      "image":"execom/2024/General execom/Hanna Ansar_LINK REP-min.jpg"
     },
     "Web And Project Co-ordinator": {
       "Name": "Prajul Francis",
-      "image": "website-api/images/execom/2024/General execom/Prajul Francis_Web and Projects Coordinator_-min.jpg"
+      "image": "execom/2024/General execom/Prajul Francis_Web and Projects Coordinator_-min.jpg"
     },
     "Membership Development Coordinator": {
       "Name": "Azmin Sathar",
-      "image": "website-api/images/execom/2024/General execom/Azmin Sathar Membership Development Coordinator-min.jpg"
+      "image": "execom/2024/General execom/Azmin Sathar Membership Development Coordinator-min.jpg"
     },
     "Design Head": {
       "Name": "Nanditha S",
-      "image": "website-api/images/execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
+      "image": "execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
     },
     "Design Head":{
       "Name":"Aardra S",
-      "image":"website-api/images/execom/2024/General execom/Aardra S_Design head-min.JPG"
+      "image":"execom/2024/General execom/Aardra S_Design head-min.JPG"
     },
     "Content Manager-Broadcast": {
       "Name": "Marina Berchmans",
-      "image": "website-api/images/execom/2024/General execom/Marina Berchmans_Content Manager - Broadcast-min.jpg"
+      "image": "execom/2024/General execom/Marina Berchmans_Content Manager - Broadcast-min.jpg"
     },
     "Content Manager-Documentation": {
       "Name": "Hari Narayan C S",
-      "image": "website-api/images/execom/2024/General execom/Hari Narayan C S_Content Head (Documentation)-min.jpg"
+      "image": "execom/2024/General execom/Hari Narayan C S_Content Head (Documentation)-min.jpg"
     },
     "Technical Coordinator": {
       "Name": "Parthiv Krishnan",
-      "image": "website-api/images/execom/2024/General execom/ParthivKrishnan_Technical Coordinator_-min.jpg"
+      "image": "execom/2024/General execom/ParthivKrishnan_Technical Coordinator_-min.jpg"
     },
     "Electronics and communication coordinator": {
       "Name": "Niju George",
-      "image": "website-api/images/execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
+      "image": "execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
     }
   },
   "Computer Society": {
     "Chairperson": {
       "Name": "Roshin Jimmy",
-      "image": "website-api/images/execom/2024/CS/Roshin Jimmy_CS Chair-min.jpg"
+      "image": "execom/2024/CS/Roshin Jimmy_CS Chair-min.jpg"
     },
     "Secretary": {
       "Name": "Martin Joseph",
-      "image": "website-api/images/execom/2024/CS/Martin Joseph CS secretary-min.jpeg"
+      "image": "execom/2024/CS/Martin Joseph CS secretary-min.jpeg"
     },
     "Activity Coordinator": {
       "Name": "M S Aswin ",
-      "image": "website-api/images/execom/2024/CS/M S Aswin_CS Activity Cordinator-min.png"
+      "image": "execom/2024/CS/M S Aswin_CS Activity Cordinator-min.png"
     },
     "WIC Coordinator":{
       "Name": "Lavanya S",
-      "image": "website-api/images/execom/2024/CS/Lavanya S_WIC Coordinator-min.jpg"
+      "image": "execom/2024/CS/Lavanya S_WIC Coordinator-min.jpg"
     }
   },
   "Signal Processing Society": {
     "Chairperson": {
       "Name": "Kevin Thomas Ajax",
-      "image": "website-api/images/execom/2024/SPS/Kevin Thomas Ajax(SPS Chairperson)-min.jpg"
+      "image": "execom/2024/SPS/Kevin Thomas Ajax(SPS Chairperson)-min.jpg"
     },
     "Secretary": {
       "Name": "Sara Varghese",
@@ -94,17 +95,17 @@
     },
     "Activity Coordinator": {
       "Name": "George Thomas",
-      "image": "website-api/images/execom/2024/SPS/George Thomas_SPS Activity Coordinator-min.jpg"
+      "image": "execom/2024/SPS/George Thomas_SPS Activity Coordinator-min.jpg"
     }
   },
   "Industrial Applications Society ": {
     "Chairperson": {
       "Name": "Devika Padmakumar Menon",
-      "image": "website-api/images/execom/2024/IAS/Devika Padmakumar Menon_IAS CHAIRPERSON-min.jpg"
+      "image": "execom/2024/IAS/Devika Padmakumar Menon_IAS CHAIRPERSON-min.jpg"
     },
     "Secretary": {
       "Name": "Gaya S",
-      "image": "website-api/images/execom/2024/IAS/Gaya S_IAS Secretary-min.jpg"
+      "image": "execom/2024/IAS/Gaya S_IAS Secretary-min.jpg"
     },
     "Activity Coordinator": {
       "Name": "Jefin Joseph Renaison",
@@ -114,29 +115,29 @@
   "Women in Engineering Affinty Group": {
     "Chairperson": {
       "Name": "Swathi S Chandran",
-      "image": "website-api/images/execom/2024/WIE/Swathi Satheesh Chandran-min.jpg"
+      "image": "execom/2024/WIE/Swathi Satheesh Chandran-min.jpg"
     },
     "Secretary": {
       "Name": "Sandra Sara Solomon",
-      "image": "website-api/images/execom/2024/WIE/Sandra Sara_WIE Secretary_-min.jpg"
+      "image": "execom/2024/WIE/Sandra Sara_WIE Secretary_-min.jpg"
     },
     "Activity Coordinator": {
       "Name": "Aadithya Madhav",
-      "image": "website-api/images/execom/2024/WIE/Aadithya Madhav_WiE Activity Co-ordinator-min.jpg"
+      "image": "execom/2024/WIE/Aadithya Madhav_WiE Activity Co-ordinator-min.jpg"
     }
   },
   "Power and Energy Society": {
     "Chairperson": {
       "Name": "Mohammed Yasin",
-      "image": "website-api/images/execom/2024/PES/MOHAMMEDYASIN_PESCHAIR.jpg"
+      "image": "execom/2024/PES/MOHAMMEDYASIN_PESCHAIR.jpg"
     },
     "Secretary": {
       "Name": "Gouri B S",
-      "image": "website-api/images/execom/2024/PES/Gouri B S-min.jpg"
+      "image": "execom/2024/PES/Gouri B S-min.jpg"
     },
     "Activity Coordinator": {
       "Name": "Catherene Tessa",
-      "image": "website-api/images/execom/2024/PES/Catherene Tessa_PES Activity coordinator_-min.jpg"
+      "image": "execom/2024/PES/Catherene Tessa_PES Activity coordinator_-min.jpg"
     }
   },
   "EMBS": {
@@ -146,25 +147,25 @@
     },
     "Secretary": {
       "Name": "Sheethal K S",
-      "image": "website-api/images/execom/2024/EMBS/Sheethal KS_EMBS Secretary-min.jpg"
+      "image": "execom/2024/EMBS/Sheethal KS_EMBS Secretary-min.jpg"
     },
     "Activity Coordinator": {
       "Name": "Jerry Biji Mathew",
-      "image": "website-api/images/execom/2024/EMBS/Jerry Biji Mathew_ EMBS activity coordinator_-min.jpg"
+      "image": "execom/2024/EMBS/Jerry Biji Mathew_ EMBS activity coordinator_-min.jpg"
     }
   },
   "CASS": {
     "Chairperson": {
       "Name": "Harish Hari",
-      "image": "website-api/images/execom/2024/CASS/HARISH HARI_CASS CHAIR-min.jpg"
+      "image": "execom/2024/CASS/HARISH HARI_CASS CHAIR-min.jpg"
     },
     "Secretary": {
       "Name": "Aparna M Sunil",
-      "image": "website-api/images/execom/2024/CASS/Aparna M Sunil_CASS Secretary -min.jpg"
+      "image": "execom/2024/CASS/Aparna M Sunil_CASS Secretary -min.jpg"
     },
     "Activity Coordinator": {
       "Name": "Pavithra K K",
-      "image": "website-api/images/execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
+      "image": "execom/2024/CASS/Pavithra KK _ CASS activity coordinator-min.jpg"
     }
     }
   },
@@ -172,7 +173,7 @@
   "Student Branch": {
     "Branch Counselor": {
       "Name": "Sreekumar K",
-      "image": "website-api/images/execom/2024/CASS/Aparna M Sunil_CASS Secretary -min.jpg"
+      "image": "execom/2022/General EXECOM/Sreekumar.jpg"
     },
     "Chairperson": {
       "Name": "Kasinath V",
